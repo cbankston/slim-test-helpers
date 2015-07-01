@@ -20,7 +20,7 @@
     },
     "minimum-stability": "dev",
     "require": {
-        "slim/slim": "2.6.*",
+        "slim/slim": "2.2.*",
         "phpunit/phpunit": "4.*"
     },
     "require-dev": {
